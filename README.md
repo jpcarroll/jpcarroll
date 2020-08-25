@@ -13,6 +13,8 @@ Ohanga is envisioning a world where artists can grow and share their passions un
 My fascination for technology is what drew me into computer science in the first place, and being such a dynamic field encourages me to continue learning something new every day. 
 I am passionate about helping others and attempting to make the world a better place - and I think software is one step closer to achieving that goal.
 
+---
+
 <p align="center">
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -34,6 +36,8 @@ I am passionate about helping others and attempting to make the world a better p
     <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
 </p>
+
+---
 
 <h3 align="center">Joke of the Day:</h3>
 
